@@ -6,7 +6,7 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
 
 ## Contents
 
-- vectorized_operations: NumPy vectorized operations.
+- **[vectorized_operations]**: NumPy vectorized operations.
 - pandas_data_manipulation: pandas functions for data manipulation.
 - titanic_analysis: Titanic dataset analysis.
 
