@@ -7,8 +7,8 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
 ## Contents
 
 - **[vectorized_operations](session_22_pandas_strings.ipynb)**: NumPy vectorized operations.
-- pandas_data_manipulation: pandas functions for data manipulation.
-- titanic_analysis: Titanic dataset analysis.
+- **[pandas_data_manipulation](session_22_pandas_strings.ipynb)**: pandas functions for data manipulation.
+- **[titanic_analysis](session_22_pandas_strings.ipynb)**: Titanic dataset analysis.
 
 ## Usage
 
