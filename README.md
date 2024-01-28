@@ -6,13 +6,13 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
 
 ## Contents
 
-- **[vectorized_operations.ipynb](vectorized_operations.ipynb):** NumPy vectorized operations.
-- **[pandas_data_manipulation.ipynb](pandas_data_manipulation.ipynb):** pandas functions for data manipulation.
-- **[titanic_analysis.ipynb](titanic_analysis.ipynb):** Titanic dataset analysis.
+- vectorized_operations: NumPy vectorized operations.
+- pandas_data_manipulation: pandas functions for data manipulation.
+- titanic_analysis: Titanic dataset analysis.
 
 ## Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[your-username/nikitasavaliya87/Data-Science-Course/session-21.git
+   git clone https://github.com/nikitasavaliya87/Data-Science-Course/session-21.git
