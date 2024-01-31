@@ -17,3 +17,21 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
    ```bash
    git clone https://github.com/nikitasavaliya87/Data-Science-Course/session-21.git
    
+# Task-22
+
+This repository contains code snippets from Task 22, various data analysis tasks, including NFT dataset processing, car dataset analysis, power generation dataset analysis, and more
+
+## Contents
+
+- **[NFT Dataset Analysis](task_22.ipynb)**
+- **[Car Dataset Analysis](task_22.ipynb)**
+- **[ Power Generation Dataset Analysis](task_22.ipynb)**
+- **[ Question-Answer Dataset](task_22.ipynb)**
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/nikitasavaliya87/Data-Science-Course/session-21.git
+   
