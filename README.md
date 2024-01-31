@@ -10,12 +10,6 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
 - **[pandas_data_manipulation](session_22_pandas_strings.ipynb)**: pandas functions for data manipulation.
 - **[titanic_analysis](session_22_pandas_strings.ipynb)**: Titanic dataset analysis.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/nikitasavaliya87/Data-Science-Course/session-21.git
    
 # Task-22
 
@@ -36,5 +30,5 @@ This repository contains code snippets from Task 22, and various data analysis t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nikitasavaliya87/Data-Science-Course/task_22.git
+   git clone https://github.com/nikitasavaliya87/Data-Science-Course
    
