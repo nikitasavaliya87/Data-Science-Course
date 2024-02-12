@@ -25,6 +25,37 @@ This repository contains code snippets from Task 22, and various data analysis t
 - **[Log and Employee Analysis](task_22.ipynb)**
 - **[Employee Data Cleaning](task_22.ipynb)**
 
+# Time Series Analysis with Pandas
+
+This repository contains Python code snippets demonstrating various time series analysis techniques using Pandas library. Below is a summary of what you'll find in this repository:
+
+## Content Overview
+
+1. Introduction to Time Series:
+   - Explanation of time series data and its applications.
+   - Examples of different types of time series data.
+
+2. Manipulating Time Series with Pandas:
+   - Working with `Timestamp`, `DatetimeIndex`, and `Timedelta` objects.
+   - Real-life examples of time series manipulation with Pandas.
+
+3. Analyzing Time Series Data:
+   - Loading and preprocessing financial (Google stock prices) and YouTube engagement data.
+   - Creating additional time-related features such as month names, weekday names, and quarters.
+   - Visualizing time series data using line plots and bar plots.
+
+4. Resampling, Rolling Windows, and Shifting:
+   - Demonstrating resampling for downsampling and upsampling.
+   - Using rolling windows for smoothing time series data.
+   - Shifting time series data to compare values at different time points.
+
+5. Example Application - Login Data Analysis:
+   - Analyzing user login data to calculate average time between logins for a specific user.
+
+
+
+
+
 ## Usage
 
 1. Clone the repository:
