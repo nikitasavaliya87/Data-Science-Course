@@ -2,7 +2,7 @@
 
 # Session-21
 
-This repository contains code snippets from Session 21, covering NumPy vectorized operations, pandas data manipulation, and Titanic dataset analysis.
+This session contains code snippets from Session 21, covering NumPy vectorized operations, pandas data manipulation, and Titanic dataset analysis.
 
 ## Contents
 
@@ -13,7 +13,7 @@ This repository contains code snippets from Session 21, covering NumPy vectorize
    
 # Task-22
 
-This repository contains code snippets from Task 22, and various data analysis tasks, including NFT dataset processing, car dataset analysis, power generation dataset analysis, and more
+This Task contains code snippets from Task 22, and various data analysis tasks, including NFT dataset processing, car dataset analysis, power generation dataset analysis, and more
 
 ## Contents
 
@@ -27,7 +27,7 @@ This repository contains code snippets from Task 22, and various data analysis t
 
 # Time Series Analysis with Pandas
 
-This repository contains Python code snippets demonstrating various time series analysis techniques using Pandas library. Below is a summary of what you'll find in this repository:
+This **[Time Series Analysis with Pandas](time_series_analysis.ipynb)** contains Python code snippets demonstrating various time series analysis techniques using Pandas library. Below is a summary of what you'll find in this repository:
 
 ## Content Overview
 
