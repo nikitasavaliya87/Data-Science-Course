@@ -57,10 +57,10 @@ This session introduces the Seaborn Library, a powerful tool for creating visual
 
 ## Contents
 
-### Relational Plots
-- **[scatter plot](#scatter-plot)**: Axes level function for creating scatter plots.
-- **[relplot](#relplot)**: Figure level function for creating scatter plots with square shape.
-- **[scatter using relplot](#scatter-using-relplot)**: Creating scatter plots with size and hue.
+### Relational Plots(#session_25_seaborn.ipynb)
+- **[scatter plot](#session_25_seaborn.ipynb)**: Axes level function for creating scatter plots.
+- **[relplot](#session_25_seaborn.ipynb)**: Figure level function for creating scatter plots with square shape.
+- **[scatter using relplot](#session_25_seaborn.ipynb)**: Creating scatter plots with size and hue.
 - **[style semantics](#style-semantics)**: Exploring style semantics.
 - **[line plot](#line-plot)**: Creating line plots using axes level and figure level functions.
 - **[hue -> style](#hue-style)**: Using hue and style in line plots.
