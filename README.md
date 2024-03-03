@@ -53,8 +53,7 @@ This Task contains code snippets from Task 22, and various data analysis tasks, 
 
 # Session-25
 
-This session introduces the Seaborn Library, a powerful tool for creating visually appealing and informative statistical graphics. Through a combination of lectures, hands-on exercises, and projects, students will gain proficiency in using Seaborn to explore and visualize various types of data.
-
+This session introduces the Seaborn Library, a powerful tool for creating visually appealing and informative statistical graphics. 
 ## Contents
 
 ### **[Relational Plots](#session_25_seaborn.ipynb)**
