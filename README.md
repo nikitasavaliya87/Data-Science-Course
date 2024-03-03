@@ -27,8 +27,6 @@ This Task contains code snippets from Task 22, and various data analysis tasks, 
 
 # Time Series Analysis with Pandas
 
-This **[Time Series Analysis with Pandas](time_series_analysis.ipynb)** contains Python code snippets demonstrating various time series analysis techniques using Pandas library. Below is a summary of what you'll find in this repository:
-
 ## Content Overview
 
 1. Introduction to Time Series:
@@ -53,7 +51,39 @@ This **[Time Series Analysis with Pandas](time_series_analysis.ipynb)** contains
    - Analyzing user login data to calculate average time between logins for a specific user.
 
 
+# Session-25
 
+This session introduces the Seaborn Library, a powerful tool for creating visually appealing and informative statistical graphics. Through a combination of lectures, hands-on exercises, and projects, students will gain proficiency in using Seaborn to explore and visualize various types of data.
+
+## Contents
+
+### Relational Plots
+- **[scatter plot](#scatter-plot)**: Axes level function for creating scatter plots.
+- **[relplot](#relplot)**: Figure level function for creating scatter plots with square shape.
+- **[scatter using relplot](#scatter-using-relplot)**: Creating scatter plots with size and hue.
+- **[style semantics](#style-semantics)**: Exploring style semantics.
+- **[line plot](#line-plot)**: Creating line plots using axes level and figure level functions.
+- **[hue -> style](#hue-style)**: Using hue and style in line plots.
+- **[facet plot](#facet-plot)**: Creating facet plots with figure level function.
+
+### Distribution Plots
+- **[histplot](#histplot)**: Axes level function for creating histograms.
+- **[displot](#displot)**: Figure level function for creating histograms.
+- **[bins parameter](#bins-parameter)**: Adjusting the number of bins.
+- **[countplot](#countplot)**: Visualizing distribution of categorical variables.
+- **[hue parameter](#hue-parameter)**: Using hue in histograms.
+- **[element -> step](#element-step)**: Customizing histogram elements.
+- **[kdeplot](#kdeplot)**: Creating kernel density estimation plots.
+- **[Rugplot](#rugplot)**: Adding marginal distributions with rug plots.
+- **[Bivariate histogram](#bivariate-histogram)**: Creating bivariate histograms.
+- **[Bivariate KDEplot](#bivariate-kdeplot)**: Creating bivariate KDE plots.
+
+### Matrix Plots
+- **[Heatmap](#heatmap)**: Creating heatmaps.
+- **[annot](#annot)**: Adding annotations to heatmaps.
+- **[linewidth](#linewidth)**: Customizing heatmap linewidth.
+- **[cmap](#cmap)**: Customizing colormap.
+- **[Clustermap](#clustermap)**: Creating hierarchically-clustered heatmaps.
 
 
 ## Usage
