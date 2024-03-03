@@ -58,32 +58,23 @@ This session introduces the Seaborn Library, a powerful tool for creating visual
 ## Contents
 
 ### **[Relational Plots](#session_25_seaborn.ipynb)**
-- **[scatter plot](#session_25_seaborn.ipynb)**: Axes level function for creating scatter plots.
-- **[relplot](#session_25_seaborn.ipynb)**: Figure level function for creating scatter plots with square shape.
-- **[scatter using relplot](#session_25_seaborn.ipynb)**: Creating scatter plots with size and hue.
-- **[style semantics](#style-semantics)**: Exploring style semantics.
-- **[line plot](#line-plot)**: Creating line plots using axes level and figure level functions.
-- **[hue -> style](#hue-style)**: Using hue and style in line plots.
-- **[facet plot](#facet-plot)**: Creating facet plots with figure level function.
+- Scatter plot: Axes level function for creating scatter plots.
+- Replot: Figure level function for creating scatter plots with square shape.
+- Scatter using Relplot: Creating scatter plots with size and hue.
+- Line plot: Creating line plots using axes level and figure level functions.
 
-### Distribution Plots
-- **[histplot](#histplot)**: Axes level function for creating histograms.
-- **[displot](#displot)**: Figure level function for creating histograms.
-- **[bins parameter](#bins-parameter)**: Adjusting the number of bins.
-- **[countplot](#countplot)**: Visualizing distribution of categorical variables.
-- **[hue parameter](#hue-parameter)**: Using hue in histograms.
-- **[element -> step](#element-step)**: Customizing histogram elements.
-- **[kdeplot](#kdeplot)**: Creating kernel density estimation plots.
-- **[Rugplot](#rugplot)**: Adding marginal distributions with rug plots.
-- **[Bivariate histogram](#bivariate-histogram)**: Creating bivariate histograms.
-- **[Bivariate KDEplot](#bivariate-kdeplot)**: Creating bivariate KDE plots.
+### **[ Distribution Plots](#session_25_seaborn.ipynb)**
+- Histplot: Axes level function for creating histograms.
+  -Lisplot: Figure level function for creating histograms.
+- Kdeplot: Creating kernel density estimation plots.
+- Rugplot: Adding marginal distributions with rug plots.
+- Bivariate histogram: Creating bivariate histograms.
+- Bivariate KDEplot: Creating bivariate KDE plots.
 
-### Matrix Plots
-- **[Heatmap](#heatmap)**: Creating heatmaps.
-- **[annot](#annot)**: Adding annotations to heatmaps.
-- **[linewidth](#linewidth)**: Customizing heatmap linewidth.
-- **[cmap](#cmap)**: Customizing colormap.
-- **[Clustermap](#clustermap)**: Creating hierarchically-clustered heatmaps.
+### **[Matrix Plots](#session_25_seaborn.ipynb)**
+- Heatmap: Creating heatmaps.
+- Cmap: Customizing colormap.
+- Cluster map: Creating hierarchically-clustered heatmaps.
 
 
 ## Usage
